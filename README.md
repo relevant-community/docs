@@ -19,7 +19,6 @@ O'Reilly — Building Web Reputation Systems
 http://wtf.tw/ref/farmer_glass.pdf  
 
 
-
 ### reputation algorithms
 
 EigenTrust  
@@ -44,6 +43,9 @@ http://verity.site/Verity-Whitepaper-Final.pdf
 
 Lynyr — not very much in this white paper, but maybe interesting to look at?  
 https://bravenewcoin.com/assets/Whitepapers/Lunyr-WhitePaper-ENG.pdf  
+
+Anonymous Decentralized Reputation  
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.478.1994&rep=rep1&type=pdf  
 
 ## CRYPTO-ECONOMIC INCENTIVES  
 
