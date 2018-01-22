@@ -30,6 +30,9 @@ https://www.researchgate.net/publication/261093756_EigenTrust_Attack_Resilient_T
 Relative Rank (EigenTrust mod) + RAW — more sybil-proof    
 https://link.springer.com/content/pdf/10.1007/978-0-387-73655-6_18.pdf  
 
+Combinging Reputation and Recommendation algos  
+http://folk.uio.no/josang/papers/JGPSX2013-MDAI.pdf  
+
 ### blockchain & reputation
 
 Colony — reputation system computation on blockchian (interactive verification on chain)  
