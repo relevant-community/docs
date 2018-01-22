@@ -25,7 +25,8 @@ EigenTrust
 http://ilpubs.stanford.edu:8090/562/1/2002-56.pdf  
 
 EigenTrust++  
-https://www.researchgate.net/publication/261093756_EigenTrust_Attack_Resilient_Trust_Management  
+https://www.dropbox.com/s/ldi9kfhjmdwpule/2012XinxinFanEigenTrustAttackResilientTrustManagement.pdf  
+
 
 Personalized EigenTrust  
 https://pdfs.semanticscholar.org/ee9d/c876c2ffbfedcd2622bf47ada4a7ce36bffb.pdf  
