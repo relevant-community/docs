@@ -27,6 +27,9 @@ http://ilpubs.stanford.edu:8090/562/1/2002-56.pdf
 EigenTrust++  
 https://www.researchgate.net/publication/261093756_EigenTrust_Attack_Resilient_Trust_Management  
 
+Relative Rank (EigenTrust mod) + RAW — more sybil-proof    
+https://link.springer.com/content/pdf/10.1007/978-0-387-73655-6_18.pdf  
+
 ### blockchain & reputation
 
 Colony — reputation system computation on blockchian (interactive verification on chain)  
