@@ -82,5 +82,8 @@ implementation:
 Gitter Chat (discussion about TCRs and Curation Markets)  
 https://gitter.im/Curation-Markets/Lobby
 
+### Consensus  
+Protocol Labs - Power Fault Tolerance  (BFT)  
+https://filecoin.io/power-fault-tolerance.pdf  
 
 
