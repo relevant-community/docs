@@ -10,7 +10,10 @@ Ex: https://github.com/worknation/work.nation  and https://github.com/trustgraph
 ### general research
 
 Web of Trust — research groups with a ton of resources (click through to diff meetups)    
-https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017  
+https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017
+
+Web of Trust portable-reputation-toolkit  
+https://github.com/WebOfTrustInfo/portable-reputation-toolkit  
 
 Coral Project — comment system for news websites, lots of great reference research  
 https://coralproject.net/research.html  
