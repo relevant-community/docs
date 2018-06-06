@@ -86,6 +86,9 @@ https://steemit.com/steem/@steemitblog/curation-by-prediction-market-proposal
 Linear Rewards  
 https://steemit.com/steem/@steemitblog/2hfxx1-pre-release-hf19-linear-rewards  
 
+PPT - governance & special interest groups / tragedy of the commons  
+https://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=2360&context=facpubs  
+
 ### Curation Markets and Token-Curated Ragistries (TCR)
 
 TCRS:  
