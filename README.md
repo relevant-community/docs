@@ -30,6 +30,8 @@ http://ilpubs.stanford.edu:8090/562/1/2002-56.pdf
 EigenTrust++  
 https://www.dropbox.com/s/ldi9kfhjmdwpule/2012XinxinFanEigenTrustAttackResilientTrustManagement.pdf  
 
+Power Trust 
+http://gridsec.usc.edu/hwang/papers/04118688.pdf  
 
 Personalized EigenTrust  
 https://pdfs.semanticscholar.org/ee9d/c876c2ffbfedcd2622bf47ada4a7ce36bffb.pdf  
