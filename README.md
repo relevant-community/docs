@@ -51,6 +51,12 @@ https://pdfs.semanticscholar.org/d877/826ef2db3e7b3d955ca4b7265123be62154f.pdf
 The design of a reliable reputation system  
 https://www.cs.ucsb.edu/~ravenben/publications/pdf/reputation-ecrj10.pdf
 
+### content filtering  
+
+Using Machine Learning to Augment Collaborative
+Filtering of Community Discussions  
+https://www.researchgate.net/profile/Stacey_Wrazien/publication/221454353_Using_machine_learning_to_augment_collaborative_filtering_of_community_discussions/links/5764509208ae421c44830ddc/Using-machine-learning-to-augment-collaborative-filtering-of-community-discussions.pdf?origin=publication_detail  
+
 ### blockchain & reputation
 
 Human Trust Protocol  
