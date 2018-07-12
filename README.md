@@ -51,6 +51,12 @@ https://pdfs.semanticscholar.org/d877/826ef2db3e7b3d955ca4b7265123be62154f.pdf
 The design of a reliable reputation system  
 https://www.cs.ucsb.edu/~ravenben/publications/pdf/reputation-ecrj10.pdf
 
+Sybil-Resilient Online Content Voting  
+https://www.usenix.org/legacy/event/nsdi09/tech/full_papers/tran/tran.pdf  
+
+Iolaus: Securing Online Content Rating Systems  
+https://mislove.org/publications/Iolaus-WWW.pdf  
+
 ### content filtering  
 
 Using Machine Learning to Augment Collaborative
@@ -79,6 +85,9 @@ https://bravenewcoin.com/assets/Whitepapers/Lunyr-WhitePaper-ENG.pdf
 
 Anonymous Decentralized Reputation  
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.478.1994&rep=rep1&type=pdf  
+
+TrustDavis (crypto-based mutual credit)  
+http://web.cs.ucdavis.edu/~defigued/index_files/trustdavis.pdf  
 
 ## CRYPTO-ECONOMIC INCENTIVES  
 
