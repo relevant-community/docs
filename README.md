@@ -89,6 +89,9 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.478.1994&rep=rep1&type=
 TrustDavis (crypto-based mutual credit)  
 http://web.cs.ucdavis.edu/~defigued/index_files/trustdavis.pdf  
 
+Reputation for open source communities  
+https://github.com/sourcecred/sourcecred  
+
 ## CRYPTO-ECONOMIC INCENTIVES  
 
 ### Steem  
