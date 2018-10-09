@@ -21,6 +21,8 @@ https://coralproject.net/research.html
 O'Reilly — Building Web Reputation Systems  
 http://wtf.tw/ref/farmer_glass.pdf  
 
+Paul Frazee thoughts on reputation for DAT  
+https://gist.github.com/pfrazee/e314196dcecd4c49382d  
 
 ### reputation algorithms
 
