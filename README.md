@@ -30,6 +30,9 @@ http://ilpubs.stanford.edu:8090/562/1/2002-56.pdf
 EigenTrust++  
 https://www.dropbox.com/s/ldi9kfhjmdwpule/2012XinxinFanEigenTrustAttackResilientTrustManagement.pdf  
 
+An enhanced EigenTrust (more dynamic trust scores for pre-trusted peers)  
+https://www.sciencedirect.com/science/article/pii/S1319157815000440  
+
 Power Trust  
 http://gridsec.usc.edu/hwang/papers/04118688.pdf  
 
