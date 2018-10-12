@@ -35,7 +35,7 @@ https://www.dropbox.com/s/ldi9kfhjmdwpule/2012XinxinFanEigenTrustAttackResilient
 An enhanced EigenTrust (more dynamic trust scores for pre-trusted peers)  
 https://www.sciencedirect.com/science/article/pii/S1319157815000440  
 
-Power Trust  
+Power Trust - speed up computation based on power distribution assumption    
 http://gridsec.usc.edu/hwang/papers/04118688.pdf  
 
 Personalized EigenTrust  
