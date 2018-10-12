@@ -41,7 +41,7 @@ http://gridsec.usc.edu/hwang/papers/04118688.pdf
 Personalized EigenTrust  
 https://pdfs.semanticscholar.org/ee9d/c876c2ffbfedcd2622bf47ada4a7ce36bffb.pdf  
 
-Relative Rank (EigenTrust mod) + RAW — more sybil-proof    
+Relative Rank (EigenTrust mod) + RAW — more sybil-proof but non-Markov & requires Monte Carlo simulation     
 https://link.springer.com/content/pdf/10.1007/978-0-387-73655-6_18.pdf  
 
 Combinging Reputation and Recommendation algos  
