@@ -32,6 +32,9 @@ http://ilpubs.stanford.edu:8090/562/1/2002-56.pdf
 EigenTrust++  
 https://www.dropbox.com/s/ldi9kfhjmdwpule/2012XinxinFanEigenTrustAttackResilientTrustManagement.pdf  
 
+Pagrank With Negative Links 
+https://www.researchgate.net/publication/220906900_The_PageTrust_Algorithm_How_to_rank_web_pages_when_negative_links_are_allowed  
+
 An enhanced EigenTrust (more dynamic trust scores for pre-trusted peers)  
 https://www.sciencedirect.com/science/article/pii/S1319157815000440  
 
